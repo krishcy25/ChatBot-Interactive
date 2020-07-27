@@ -1,0 +1,60 @@
+Analytics
+Information resulting from the systematic analysis of data or statistics
+
+Mean
+The sum of the scores in a distribution divided by the number of scores in the distribution. It is the most commonly used measure of central tendency. It is often reported with its companion statistic, the standard deviation, which shows how far things vary from the average.
+
+Median
+The midpoint or number in a distribution having 50% of the scores above it and 50% of the scores below it. If there are an odd number of scores, the median is the middle score.
+
+Mode
+The number that occurs most frequently in a distribution of scores or numbers. In some fields, notably education, sample data are often called scores, and the sample mode is known as the modal score
+
+Population
+A population is the entire group of individuals you want to study, and a sample is a subset of that group.
+
+Parameter
+A parameter is a quantitative characteristic of the population that you’re interested in estimating or testing (such as a population mean or proportion).
+
+Statistic
+A statistic is a quantitative characteristic of a sample that often helps estimate or test the population parameter (such as a sample mean or proportion).
+
+Descriptive Statistics
+Descriptive statistics are single results you get when you analyze a set of data — for example, the sample mean, median, standard deviation, correlation, regression line, margin of error, and test statistic
+
+Statistical Inference
+Statistical inference refers to using your data (and its descriptive statistics) to make conclusions about the population. Major types of inference include regression, confidence intervals, and hypothesis tests
+
+
+Analysis of variance (ANOVA)
+A procedure for determining how much of the total variability among scores to attribute to a range of sources of variation and for testing hypotheses concerning some of the sources
+
+Completely randomized design
+A study in which the assignment of participants to treatment levels is completely random; each participant is in only one treatment condition
+
+Confidence interval
+A range of values computed from data so that a specified percentage (often 95%) of all possible random samples from the same population will give intervals that contain the true population value
+
+Correlation coefficient
+A number that represents the degree of association or strength of relationship between two variables
+
+Critical region
+The region for rejecting the null hypothesis
+
+Cumulative frequency distribution
+A distribution that shows the number, proportion, or percentage of scores that occur below the real upper limit of each interval (including all intervals below)
+
+Normal distribution
+A probability distribution that is unimodal and symmetrical; the mean, median, and mode are all the same value (the highest point on the curve)
+
+Outliers
+Scores that differ so markedly from the main body of data that their accuracy is questioned
+
+p-value
+The probability of obtaining a value of the test statistic equal to or more extreme than that observed, given that the null hypothesis is true
+
+Percentile (point)
+A point on the measurement scale below which a specified percentage of scores falls 
+
+Level of significance
+The probability that is the largest risk a researcher is willing to take of rejecting a true null hypothesis 
